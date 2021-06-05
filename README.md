@@ -1,2 +1,2 @@
 # AccessVBASample-AddressBook
-AccessDBに接続するクラスのサンプル
+VBAでAccessDBに接続するクラスのサンプル
