@@ -1,0 +1,2 @@
+# AccessVBASample-AddressBook
+AccessDBに接続するクラスのサンプル
